@@ -11,7 +11,7 @@ const LandingPage = () => {
       
       <h2>Employees</h2>
       <Link to="/employees">Employee Directory</Link>
-      </ui>l
+      </ui>
     </div>
   );
 };
